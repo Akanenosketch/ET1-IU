@@ -1,0 +1,1 @@
+datosgenerales=Array('Quintas Rodríguez Tatiana María', 'ET1', 10)
