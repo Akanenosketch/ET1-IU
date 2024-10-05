@@ -1,1 +1,1 @@
-datosgenerales=Array('Quintas Rodríguez Tatiana María', 'ET1', 10)
+datosgenerales=Array('Quintas Rodríguez Tatiana María', 'ET1', 14)
