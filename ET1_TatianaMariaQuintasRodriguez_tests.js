@@ -25,7 +25,7 @@ def_test = Array(
     //file_analysis_preparation
     Array('analysis_preparation', 'file_analysis_preparation', 19, 'cumple tamaño minimo', false, 'file_analysis_preparation_min_size_NG', 'file_analysis_preparation debe de tener un nombre de minimo 7 caracteres'),
     Array('analysis_preparation', 'file_analysis_preparation', 20, 'cumple tamaño maximo', false, 'file_analysis_preparation_max_size_NG', 'file_analysis_preparation debe de tener un nombre de maximo 100 caracteres'),
-    Array('analysis_preparation', 'file_analysis_preparation', 21, 'no contiene ñ, espacios, acentos ni otro tipo de caracteres', falso, 'file_analysis_preparation_format_NG', 'file_analysis_format debe de tener un nombre que no contenga espacios, acentos, la letra ñ ni ningun tipo de caracter especial'),
+    Array('analysis_preparation', 'file_analysis_preparation', 21, 'no contiene ñ, espacios, acentos ni otro tipo de caracteres', false, 'file_analysis_preparation_format_NG', 'file_analysis_format debe de tener un nombre que no contenga espacios, acentos, la letra ñ ni ningun tipo de caracter especial'),
     Array('analysis_prepatation', 'file_analysis_preparation', 22, 'Es alfabetico', true, 'file_analsys_preparation_OK', 'Exito'),
     //Definición de tests para la entidad project
     //id_project
@@ -65,7 +65,7 @@ def_test = Array(
     //file_project
     Array('project', 'file_project', 50, 'cumple tamaño minimo', false, 'file_project_min_size_NG', 'file_project debe de tener un nombre de minimo 7 caracteres'),
     Array('project', 'file_project', 51, 'cumple tamaño maximo', false, 'file_project_max_size_NG', 'file_project debe de tener un nombre de maximo 100 caracteres'),
-    Array('project', 'file_project', 52, 'no contiene ñ, espacios, acentos ni otro tipo de caracteres', falso, 'file_project_format_NG', 'file_project debe de tener un nombre que no contenga espacios, acentos, la letra ñ ni ningun tipo de caracter especial'),
+    Array('project', 'file_project', 52, 'no contiene ñ, espacios, acentos ni otro tipo de caracteres', false, 'file_project_format_NG', 'file_project debe de tener un nombre que no contenga espacios, acentos, la letra ñ ni ningun tipo de caracter especial'),
     Array('project', 'file_project', 53, 'Es alfabetico', true, 'file_project_OK', 'Exito'),  
     //code_project
     Array('project', 'code_project', 54, 'cumple tamaño minimo', false, 'code_project_min_size_NG', 'code_project debe de contener como minimo 6 caracteres'),
