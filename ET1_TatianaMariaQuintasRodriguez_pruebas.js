@@ -9,7 +9,13 @@ pruebasunitarias_=Array(
     Array(3, 'analysis_preparation', 'id_analysis_preparation', 6, '45698bca', false),
     Array(3, 'analysis_preparation', 'id_analysis_preparation', 7, '7894', false),
     Array(3, 'analysis_preparation', 'id_analysis_preparation', 8, 789465, true),
+    Array(4, 'analisys_preparation', 'id_analysis preparation', 9, '24987a78',false),
+    Array(4, 'analysis_preparation', 'id_analysis_preparation', 10, 123456789, true),
     //name_analysis_preparation
+    Array(5, 'analysis_preparation', 'name_analysis_preparation', 11, 'hola', false),
+    Array(5, 'analysis_preparation', 'name_analysis_preparation', 12, 'objetivo',true),
+    Array(6, 'analysis_preparation', 'name_analysis_preparation', 13, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a accumsan tortor. Vestibulum velit.a', false),
+    
     //description_analysis_preparation
     //bib_analysys_preparation
     //file analysys_preparation
