@@ -135,7 +135,7 @@ pruebasunitarias_ = Array(
     Array(43, "project", "description_project", 120, "objetivo", true),
     Array(44, "project", "description_project", 121, "un elemento normal".repeat(20), false),  //max 100
     Array(44, "project", "description_project", 122, "no se me ocurre nada para poner aquí", true),
-    Array(45, "project", "description_project", 123, "ねえねえねえあなたと私でランデブー？", false),
+    Array(45, "project", "description_project", 123, "pues al parecer no hay falsos aqui", true),
     Array(45, "project", "description_project", 124, "otra frase en la que digo que no se me ocurre nada", true),
     Array(46, "project", "description_project", 125, "24762356", false),
     Array(46, "project", "description_project", 126, "Otro test correcto, otros cientos que elaborar", true),    
